@@ -1,1 +1,1 @@
-# contentAPI
+# seriesAPI
